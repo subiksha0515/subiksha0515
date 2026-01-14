@@ -74,11 +74,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=If%20you%20aim%20at%20nothing%2C%20you%20will%20hit%20it%20every%20time.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Be%20who%20you%20are%20and%20say%20what%20you%20feel%20because%20those%20who%20mind%20don't%20matter%20and%20those%20who%20matter%20don't%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
