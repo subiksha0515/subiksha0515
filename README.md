@@ -82,11 +82,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=It's%20your%20road%2C%20and%20yours%20alone%2C%20others%20may%20walk%20it%20with%20you%2C%20but%20no%20one%20can%20walk%20it%20for%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=If%20you're%20afraid%20to%20die%2C%20you're%20afraid%20to%20live.%20You%20can't%20have%20one%20without%20the%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
