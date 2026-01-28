@@ -88,11 +88,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=Keep%20true.%20Never%20be%20ashamed%20of%20doing%20right.%20Decide%20what%20you%20think%20is%20right%20and%20stick%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=The%20only%20thing%20new%20in%20the%20world%20is%20the%20history%20you%20do%20not%20know.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
