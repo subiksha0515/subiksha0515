@@ -143,11 +143,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=You%20cannot%20swim%20for%20new%20horizons%20until%20you%20have%20courage%20to%20lose%20sight%20of%20the%20shore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Wealth%20is%20the%20product%20of%20man's%20capacity%20to%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
