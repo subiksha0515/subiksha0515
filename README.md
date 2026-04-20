@@ -169,11 +169,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=This%20is%20the%20most%20simple%20and%20basic%20component%20of%20life%3A%20our%20struggles%20determine%20our%20successes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Every%20moment%20you%20get%20is%20a%20gift.%20Spend%20it%20on%20things%20that%20matter.%20Don't%20spend%20it%20by%20dwelling%20on%20unhappy%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
