@@ -188,11 +188,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=No%20experience%20is%20a%20cause%20of%20success%20or%20failure.%20We%20do%20not%20suffer%20from%20the%20shock%20of%20our%20experiences%2C%20so-called%20trauma%20-%20but%20we%20make%20out%20of%20them%20just%20what%20suits%20our%20purposes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Live%20calmly.%20The%20time%20will%20come%20when%20the%20flowers%20bloom%20by%20themselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
