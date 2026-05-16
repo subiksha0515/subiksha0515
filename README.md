@@ -195,11 +195,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20person%20who%20never%20made%20a%20mistake%20never%20tried%20anything%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=To%20the%20world%20you%20may%20be%20one%20person%3B%20but%20to%20one%20person%20you%20may%20be%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
