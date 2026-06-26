@@ -236,11 +236,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Character%20is%20doing%20what%20you%20don't%20want%20to%20do%20but%20know%20you%20should%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=If%20you%20love%20somebody%2C%20let%20them%20go%2C%20for%20if%20they%20return%2C%20they%20were%20always%20yours.%20If%20they%20don't%2C%20they%20never%20were.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
