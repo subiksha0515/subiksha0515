@@ -258,11 +258,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=We%20learn%20by%20pushing%20ourselves%20and%20finding%20what%20really%20lies%20at%20the%20outer%20reaches%20of%20our%20abilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20have%20no%20methods%3B%20all%20I%20do%20is%20accept%20people%20as%20they%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
