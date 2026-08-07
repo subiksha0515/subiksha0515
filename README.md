@@ -277,11 +277,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Be%20careful%20the%20environment%20you%20choose%20for%20it%20will%20shape%20you%3B%20be%20careful%20the%20friends%20you%20choose%20for%20you%20will%20become%20like%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=If%20you%20love%20life%2C%20don't%20waste%20time%2C%20for%20time%20is%20what%20life%20is%20made%20up%20of.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
