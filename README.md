@@ -300,11 +300,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20outer%20conditions%20of%20a%20person's%20life%20will%20always%20be%20found%20to%20reflect%20their%20inner%20beliefs.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=An%20investment%20in%20knowledge%20pays%20the%20best%20interest.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
