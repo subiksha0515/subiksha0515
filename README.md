@@ -314,11 +314,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Often%20in%20the%20real%20world%2C%20it's%20not%20the%20smart%20that%20get%20ahead%2C%20but%20the%20bold.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Even%20if%20our%20home%20burns%20down%20we%20can%20rebuild%20it.%20But%20the%20things%20that%20we%20got%20for%20nothing%2C%20we%20can%20never%20replace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
