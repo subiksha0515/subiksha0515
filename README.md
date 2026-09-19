@@ -321,11 +321,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Life%20is%20not%20just%20the%20passing%20of%20time.%20Life%20is%20the%20collection%20of%20experiences%20and%20their%20intensity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Death%20is%20as%20sure%20for%20that%20which%20is%20born%2C%20as%20birth%20is%20for%20that%20which%20is%20dead.%20Therefore%20grieve%20not%20for%20what%20is%20inevitable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
